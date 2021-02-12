@@ -1,0 +1,18 @@
+﻿{
+  "author": "David",
+  "manifest_version": 2,
+  "name": "Темная тема | Танки Онлайн",
+  "description": "Классическая темная тема для игры.",
+  "version": "1.0.0",
+  "icons": {
+    "128": "ico/128.png"
+  },
+  "browser_action": {
+    "default_name": "Темная тема | Танки Онлайн",
+    "default_popup": "html/index.html"
+  },
+  "content_scripts": [{
+      "matches": ["https://tankionline.com/play/"],
+      "css": ["css/dark_theme.css"]
+    }]
+}
