@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "name": "Темная тема | Танки Онлайн",
   "description": "Классическая темная тема для игры.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icons": {
     "128": "ico/128.png"
   },
@@ -12,7 +12,7 @@
     "default_popup": "html/index.html"
   },
   "content_scripts": [{
-      "matches": ["https://tankionline.com/play/"],
+      "matches": ["https://tankionline.com/play/*", "https://*.test-eu.tankionline.com/*"],
       "css": ["css/dark_theme.css"]
-    }]
+  }]
 }
