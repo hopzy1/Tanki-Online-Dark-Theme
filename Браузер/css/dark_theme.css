@@ -5,13 +5,12 @@
 .cvxJuX, .eHJKOe, .chsNKn {background: #252525 !important;}
 .ioKbBQ, .jHhqEK {background: #303030 !important;}
 .Nwryl {background: #232323 !important; box-shadow: 0 0 35px #ffffff0f !important; border: 2px solid #292929 !important;}
-.gZAJll, .fFWrre, .eqtiIV, .RdzIK, footer, .gCIUcU, .neuxE::before, .eFeOua, .eFeOua::before {background: #202020 !important;}
+.gZAJll, .fFWrre, .eqtiIV, .RdzIK, .gCIUcU, footer, .neuxE::before, .eFeOua, .eFeOua::before, .eRHQHn {background: #202020 !important;}
 .dPtiMX, .eYaMuq, .kfvTTa, .eqCOeE, .fomrzG {background-color: #202020 !important;}
 .fomrzG:hover {background-color: #191919 !important;}
 .fXlkFt, .eNtOgC, .iIOIxK, .hPrQcj, .oeWtg, .bJynPQ, * .fXPMCu [class^='sc'] *, * .byPnBM [class^='sc'] *, .GlobalStyle-html, .GlobalStyle-body, .gUYXmi, .lojvzz, .kSDoUH, .eIIRBY, .bdYOnS, .dkOMUO, .cOwbKL, .haPmYN, .eYKuRL {background: #191919 !important;}
 .azNIl, .jWVbTs, .cHNNHl, .fyZcAQ {background-color: #191919 !important;}
 .blwpwv, .frcSIa {background-color: #191919 !important; box-shadow: 0 0 3px #191919 !important;}
-.neuxE {border-bottom: #191919 !important;}
 .hqwwqo, .fmsxeI, .cFCXW > div:nth-child(3) > div {background: #191919 !important; box-shadow: rgb(0 0 0 / 50%)  0px 0px 0.375em 0px !important}
 .modal.hover {background-color: #15151587 !important;}
 .WcQhB {background-color: #101010 !important;}
@@ -25,5 +24,13 @@
 .epgQHW {background-color: rgba(78, 80, 95, 0.15) !important;}
 .HITEl *, .hInGea * {backdrop-filter: saturate(15%);}
 .iNPFbI {background-color: #353535 !important;}
-.neuxE {border-bottom: 0.2em solid #303030 !important;}  /* main border bottom nav */
+.neuxE {background: none !important; border-bottom: 0.2em solid #303030 !important;}  /* main border bottom nav */
 footer {border-top: 0.2em solid #303030 !important;} /* main border top footer */
+.gZAJll, .cvxJuX, .eHJKOe, .neuxE, .gCIUcU, footer {opacity: .9 !important;}
+.cHNNHl {border: none !important; opacity: 0.85 !important;}
+.RdzIK {background-color: rgba(28, 28, 28, .80) !important;} /* Лог битвы */
+.gaJXbo {background-color: rgba(41, 41, 41, .95) !important;}
+
+
+/* Тестовый сервер */
+.eFeOua {background: none !important; border-bottom: 0.2em solid #303030 !important; opacity: .9 !important; /* Шапка главного экрана */}
