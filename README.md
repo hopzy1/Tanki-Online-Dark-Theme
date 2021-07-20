@@ -3,7 +3,7 @@
 <h3>📢 Классическая тёмная тема для игры Танки Онлайн</h3>
 
 [🔎 Домашняя страница](https://tankidarktheme.github.io/)<br><br>
-[<img src="https://image.flaticon.com/icons/png/16/2111/2111370.png"> Наш дискорд сервер](https://discord.gg/yHR5EQkqvB)
+[<img src="https://image.flaticon.com/icons/png/16/2111/2111370.png"> Наш дискорд сервер](https://discord.gg/FKMMgGrFzt)
 
 <hr>
 
